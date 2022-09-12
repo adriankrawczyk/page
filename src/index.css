@@ -1,8 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-body {
-  background-color: #c4b5fd;
+.bg-black-alt {
+  background: #191919;
+}
+.text-black-alt {
+  color: #191919;
+}
+.border-black-alt {
+  border-color: #191919;
 }
 @layer components {
   .navbar-button {
