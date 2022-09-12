@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+  background-color: #c4b5fd;
+}
+@layer components {
+  .navbar-button {
+    @apply relative flex items-center justify-center h-12 w-12 mt-4 mx-auto;
+  }
+}
