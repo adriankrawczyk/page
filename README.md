@@ -1,1 +1,2 @@
-# Basic page layout, https://adriankrawczyk.github.io/page/
+# Using Fabric.js, Vite, React, Typescript and Tailwindcss
+
